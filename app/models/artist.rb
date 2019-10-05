@@ -14,4 +14,4 @@ class Artist < ActiveRecord::Base
     self.genres.length
   end
 end
-end
+
